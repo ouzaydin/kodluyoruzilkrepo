@@ -13,6 +13,6 @@ Patika.dev den aldığım ilk ödevi yapıyorum.
 - Third item
 `git config --global user.name “[ouzaydin]”
 ### Projemin bir resmi
-![https://digitalage.com.tr/wp-content/uploads/2017/02/yazilim-kodlama.jpg.webp](image.jpg)
+![proje resmim](https://digitalage.com.tr/wp-content/uploads/2017/02/yazilim-kodlama.jpg.webp)
 -değiştirdim 
 -değiştirildi
