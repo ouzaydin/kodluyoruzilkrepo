@@ -14,3 +14,5 @@ Patika.dev den aldığım ilk ödevi yapıyorum.
 `git config --global user.name “[ouzaydin]”
 ### Projemin bir resmi
 ![https://images.app.goo.gl/nW2XHpuq2sCJPS4N6](image.jpg)
+-değiştirdim 
+-değiştirildi
