@@ -13,6 +13,6 @@ Patika.dev den aldığım ilk ödevi yapıyorum.
 - Third item
 `git config --global user.name “[ouzaydin]”
 ### Projemin bir resmi
-![https://images.app.goo.gl/nW2XHpuq2sCJPS4N6](image.jpg)
+![https://siviltoplumdestek.org/wp-content/uploads/2019/06/kodluyoruz-kodlama-gelecek-gelecegi-kodluyoruz-gelecek-burada.jpg](image.jpg)
 -değiştirdim 
 -değiştirildi
